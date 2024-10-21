@@ -4,11 +4,11 @@
    - name de type String
    - price de type double
    - quantity de type int
-<img src="captures/Capture1.png">
+<img src="captures/Capture1.PNG">
 4. Configurer l'unité de persistance dans le ficher application.properties
-<img src="captures/capture2.png">
+<img src="captures/capture2.PNG">
 5. Créer l'interface JPA Repository basée sur Spring data
-<img src="captures/capture3.png">
+<img src="captures/capture3.PNG">
 6. Tester quelques opérations de gestion de patients :
     - Ajouter des produits
     - Consulter tous les produits
@@ -16,7 +16,7 @@
     - Chercher des produits
     - Mettre à jour un produit
     - supprimer un produit
-<img src="captures/capture4.png">
+<img src="captures/capture4.PNG">
 7. Migrer de H2 Database vers MySQL
-<img src="captures/Capture5.png">
+<img src="captures/Capture5.PNG">
 
